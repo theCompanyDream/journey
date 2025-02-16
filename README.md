@@ -2,7 +2,6 @@
 
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyter.vercel.app/)
 [![Vercel Status](https://img.shields.io/github/deployments/diegofcornejo/vercel-jupyter-lite/production?style=flat&logo=vercel&label=vercel)](https://jupyter.vercel.app/)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/740e35b0-9480-4005-ba98-d67a5bdfab71/deploy-status)](https://jupyterlite.netlify.app)
 
 JupyterLite deployed as a static site to showcasing my journey in data science, ml, and investing.
 
